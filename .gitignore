@@ -1,0 +1,8 @@
+.env
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+resources/webview
+yarn-error.log
